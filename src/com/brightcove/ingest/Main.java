@@ -29,10 +29,10 @@ import org.apache.http.util.EntityUtils;
 
 public class Main {
 
-    public static final String oAuthClientId = "4de69a0b-5918-423f-a9f2-c505208b6adc";
-    public static final String oAuthClientSecret = "DlAYySEZcCp7Y31R4-WrrA-if4mlsBUsXHCKBn-nB_Kx-Lks9Ywlwjxtolu5LwbShk1YFO2VbB9ief3RJ_lZ7A";
-    public static final String accountId = "706104234001";
-    public static final String masterfileUrl = "http://brightcove05.brightcove.com/o1/706104234001/706104234001_5309119220001_5309089424001.mp4?pubId=706104234001&videoId=5309089424001";
+    public static final String oAuthClientId = "Add your client id ";
+    public static final String oAuthClientSecret = "Add your client secret";
+    public static final String accountId = "Add your account id";
+    public static final String masterfileUrl = "Add your master file url that Video Cloud can access/download from public network";
 
     public static final String accessTokenUrl = "https://oauth.brightcove.com/v3/access_token";
     public static final String createVideoUrl = "https://cms.api.brightcove.com/v1/accounts/ACCOUNT_ID/videos/";
